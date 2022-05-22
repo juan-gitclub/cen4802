@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-// Author: Juan diego albarran corona
+// Author: Juan diego albarran 
 
 public class main {
 
