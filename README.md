@@ -2,4 +2,4 @@
 
 Author: Juan Albarran.
 
-Software integration, configuration, and testing class
+Adding javadoc comments 
