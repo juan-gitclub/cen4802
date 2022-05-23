@@ -1,7 +1,13 @@
 import java.util.*;
 
 
-// Author: Juan diego albarran 
+/**
+ * 
+ * @author juanalbarran
+ * @version 1.0
+ * 
+ *
+ */
 
 public class main {
 
@@ -27,4 +33,18 @@ public class main {
 
 		}
 	}
+	
+	/**
+	 * 
+	 * @param nthTerm holds the arithmetic sequence 
+	 * 
+	 * @param num inputs desired term to execute the sequence formula
+     *
+	 *
+	 * <p> fibonacciSec function takes the desired term as a parameter 
+	 * and executes the formula until it reaches 0
+	 * 
+	 *
+	 */
+	
 }
